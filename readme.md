@@ -6,4 +6,4 @@ I'm an astronomer and research fellow at the Center for Computational Astrophysi
 - 🔭 I help operate and maintain [remote telescopes](https://www.speculoos.uliege.be/cms/c_4259452/en/speculoos?id=c_4259452) across the globe.
 - 🌌 I build data pipelines and intuitive web tools to turn raw observations into scientific discoveries.
 
-**Now exploring opportunities in industry** — check out my [resume](https://lgrcia.com/resume.html)!
+**Now exploring opportunities in industry** — check out my [resume](https://lgrcia.com/build/resume_en.html)!
